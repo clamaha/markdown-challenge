@@ -1,8 +1,8 @@
-# Clara Mahaux  
+# CLARA MAHAUX
  *"Be you, be proud of you because you can be do what we want to do"*  -François Hollande  
  
- ![My picture](IMG_2707.jpg)  
- ## Little 00's miss who drinks too much caffeine and wants to be a successful web dev
+ ![My picture](IMG_2707.jpg)
+ ## 00's miss who drinks too much caffeine and wants to be a successful web dev
  
  | Birthday | Favorite Color | Favorite Food | Pinneapple on pizza |
  | :------: | :------------: | :-----------: | :-----------------: |
@@ -12,7 +12,6 @@
  
  * Road trips 🚗
  * Cooking 🍽
- * Design ✨
  * Movies starring Al Pacino 🎥
  
     * *Dog Day Afternoon*
@@ -23,9 +22,12 @@
 You need help to keep things organized, a shoulder to cry on or an honest opinion 🤝
  
 ##### A funny story 
-
-The funny story is that my memory is so bad that I forgot the funny things that happened to me :( I might come back when I remember...
+FUNNY STORY
 
 ###### TL;DR 
-I forgot
+SUMMARIZED STORY
 
+![](https://media.giphy.com/media/QBGfW8HqzXzYDojCqo/giphy.gif)
+
+---
+**<< [Camille](https://github.com/CMarchandon?tab=repositories) || [CLARA MAHAUX](https://github.com/clamaha/markdown-challenge) || [Corentin](https://github.com/corentinnys/markdown-challenge) >>**
