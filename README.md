@@ -1,7 +1,7 @@
 # Clara Mahaux  
  *"Be you, be proud of you because you can be do what we want to do"*  -François Hollande  
  
- ![My picture](IMG_2707.jpg { width=50% })  
+ ![My picture](IMG_2707.jpg)  
  ## Little 00's miss who drinks too much caffeine and wants to be a successful web dev
  
  | Birthday | Favorite Color | Favorite Food | Pinneapple on pizza |
