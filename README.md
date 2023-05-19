@@ -22,10 +22,10 @@
 You need help to keep things organized, a shoulder to cry on or an honest opinion 🤝
  
 ##### A funny story 
-FUNNY STORY
+It happened on the bus a few weeks ago. I was standing because the bus was crowded and an old man stood in front of me. I noticed he looked at me too much and even laughed sometimes. After a while there was more space in the bus so he came closer and told me that I looked like Columbo (I was wearing a beige trench coat) and that’s why he was laughing. He started saying Columbo catchwords and I didn’t understand anything because I never watched this tv show. He noticed I was a little embarrassed so he just left and got out of the bus. I guess I’ll never wear that trench again…
 
 ###### TL;DR 
-SUMMARIZED STORY
+An old man made fun of me and said I looked like Columbo because of my trench 🤡
 
 ![](https://media.giphy.com/media/QBGfW8HqzXzYDojCqo/giphy.gif)
 
